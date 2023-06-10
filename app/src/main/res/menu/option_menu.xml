@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/crate_plan" android:title="Plan ekle"
+        android:icon="@drawable/add_task"
+        app:showAsAction="always"></item>
+
+    <item android:id="@+id/options_person" android:title="Bilgilerim"
+        android:icon="@drawable/option_person"
+        app:showAsAction="always"></item>
+    <item android:id="@+id/sign_out" android:title="Sign out"
+        android:icon="@drawable/out"
+        app:showAsAction="always"></item>
+
+
+</menu>
+
